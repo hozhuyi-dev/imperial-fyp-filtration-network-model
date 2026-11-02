@@ -1,0 +1,5 @@
+# Input and output data (DEM/DTM samples, simulation results); not published
+data/
+
+# MATLAB autosave files
+*.asv
